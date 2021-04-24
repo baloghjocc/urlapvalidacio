@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+header {
+background-color: orange;
+}
+nav {
+background-color: aquamarine;
+}
+article {
+background-color: bisque;
+}
+aside {
+background-color: lightskyblue;
+}
+footer {
+background-color: lightpink;
+}
+section {
+border: 1px solid gray;
+background-color: antiquewhite;
+margin: 15px;
+padding: 15px;
+}
+ul {
+list-style-type: none;
+padding: 5px;
+}
+li {
+padding-top: 2px;
+}
+#pszoveg {
+color: plum;
+}
+.urlapelem{
+float:right;
+text-align: right;
+}
+fieldset {
+border-radius: 10px;
+}
+input {
+width: 400px;
+height: 25px; 
+}
